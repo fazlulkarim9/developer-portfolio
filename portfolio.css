@@ -29,7 +29,7 @@
 nav {
     display: flex;
     justify-content: space-between;
-    margin: 50px 200px;
+    padding: 50px 200px;
 }
 
 nav li {
@@ -57,7 +57,7 @@ nav ul {
 
 .banner-taitel {
     font-weight: 700;
-    font-size: 85px;
+    font-size: 55px;
 }
 
 .banner-sub-titel {
